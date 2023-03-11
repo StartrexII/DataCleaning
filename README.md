@@ -45,11 +45,11 @@
 Для упрощения демонстрации техники очистки данных мы будем отрабатывать на урезанном датасете. Он содержит информацию о 61 признаке, описывающих жилье. Файл с данными можно найти [здесь](./data/sber_data.csv).
 
 ## Используемые зависимости
-* Python (3.9):
-    * [numpy (1.20.3)](https://numpy.org)
-    * [pandas (1.3.4)](https://pandas.pydata.org)
-    * [matplotlib (3.4.3)](https://matplotlib.org)
-    * [seaborn (0.11.2)](https://seaborn.pydata.org)
+* Python (3.11.1):
+    * [numpy (1.24.1)](https://numpy.org)
+    * [pandas (1.5.3)](https://pandas.pydata.org)
+    * [matplotlib (3.6.3)](https://matplotlib.org)
+    * [seaborn (0.12.2)](https://seaborn.pydata.org)
 
 ## Установка проекта
 
